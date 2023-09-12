@@ -13,7 +13,7 @@
 <br/>
 
 ## Sobre o projeto
-Esse projeto teve o objetivo central o desenvolvimento um algoritmo de _machine-learning_ capaz de, a partir de resultados do exame de cardiotocografia (CTG), classificar a saúde de um feto. Foram utilizadas as bibliotecas _Pandas Profiling_ e _PyCaret_ que auxiliaram a construção de modelos, com o intuito de obter uma resposta da melhor e mais ágil forma possível. A partir dos 15 modelos gerados com diferentes algoritmos de classificação, que foram avaliados de acordo com o valor de acurácia, o melhor modelo foi criado pelo _Extreme Gradient Boosting_.
+Esse projeto teve o objetivo central de desenvolver um algoritmo de _machine-learning_ capaz de, a partir de resultados do exame de cardiotocografia (CTG), classificar a saúde de um feto. Foram utilizadas as bibliotecas _Pandas Profiling_ e _PyCaret_ que auxiliaram a construção de modelos, com o intuito de obter uma resposta da melhor e mais ágil forma possível. A partir dos 15 modelos gerados com diferentes algoritmos de classificação, que foram avaliados de acordo com o valor de acurácia, se chegou no melhor modelo criado pelo _Extreme Gradient Boosting_ (XGBoost).
 
 * **[Projeto na íntegra]()**
 * **[Artigo]()**
